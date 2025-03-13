@@ -1,2 +1,1 @@
-# HW2-5_FLubin
-Git Lesson 2.5 Homework 
+This is the develop team HW2-5_FLubin
